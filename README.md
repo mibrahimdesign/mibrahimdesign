@@ -1,54 +1,38 @@
 <!--
   Mohamed Ibrahim Abdel Razik
-  GitHub Profile README
+  GitHub Profile
   © 2026 Mohamed Ibrahim Abdel Razik. All Rights Reserved.
 -->
 
 <div align="center">
 
-# MOHAMED IBRAHIM
-
-### Senior UX/UI Engineer · Frontend Developer
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Product+Designer;Senior+UX%2FUI+Engineer;Frontend+Engineer;Design+Systems+Engineer;Enterprise+UI+Engineer;Building+with+Local+AI+%26+AI+Agents"
-  alt="Professional roles"
-/>
-
-<br/>
-
-### DESIGN × ENGINEERING × INTELLIGENCE
-
-Building scalable digital experiences at the intersection of  
-**Product Design, Design Systems, Frontend Engineering, and AI**
+<img src="./assets/hero.svg" width="100%" alt="Mohamed Ibrahim, Design, Engineering and AI" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedibrahimdesigner/)
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mibrahim-designer)
-![Profile Views](https://komarev.com/ghpvc/?username=mibrahimdesign&style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=mibrahimdesign&style=for-the-badge&color=8250DF)
 
 </div>
 
----
+<br/>
 
-## 01 · WHO I AM
+## Beyond the Interface
 
-I don't see **design and engineering as separate disciplines**.
+I have spent more than **14 years** working where design decisions become real products.
 
-For more than **14 years**, I've worked across the space between them, designing experiences, building interfaces, creating Design Systems, and transforming complex enterprise requirements into products people can actually use.
+My career started with visual and web design, evolved through UX/UI and product design, and expanded into frontend engineering, enterprise platforms, and scalable Design Systems.
 
-My professional journey has taken me across:
+Today, my work sits at the intersection of:
 
-**Banking · E-Government · Enterprise · Telecom · Web · Mobile**
+**Product Design · Design Systems · Frontend Engineering · Enterprise UX · Artificial Intelligence**
 
-with a strong focus today on:
+I don't treat these as separate disciplines.
 
-**Enterprise UX · Design Systems · Frontend Architecture · Accessibility · Bilingual RTL/LTR Experiences**
+I use them together to transform complex requirements into experiences that are clear for users, scalable for teams, maintainable for engineers, and ready to evolve.
 
-Now, I'm extending that same thinking into **Artificial Intelligence**.
-
-Not AI as a replacement for design or engineering, but as another intelligent layer inside the product-building system.
+<br/>
 
 <div align="center">
 
@@ -56,528 +40,489 @@ Not AI as a replacement for design or engineering, but as another intelligent la
 
 </div>
 
----
+<br/>
 
-## 02 · PROFESSIONAL DNA
+<img src="./assets/design-code-ai.svg" width="100%" alt="Design, Engineering and AI illustration" />
 
-<table>
-<tr>
+<br/>
 
-<td width="25%" valign="top">
+## Professional DNA
 
-### 🎨 DESIGN
+Instead of choosing between **designer** and **engineer**, my career has developed across both.
 
-UX/UI Design
+<img src="./assets/professional-dna.svg" width="100%" alt="Mohamed Ibrahim professional DNA" />
 
-Product Design
+### 🎨 Product & Experience Design
 
-Interaction Design
+`UX/UI Design` `Product Design` `Interaction Design` `User-Centered Design`
 
-User-Centered Design
+`UX Research` `Wireframing` `Prototyping` `Visual Design`
 
-UX Research
+`Responsive Web Design` `Mobile UI Design` `Customer Experience`
 
-Wireframing
+`Storyboarding` `Information Architecture` `Content Strategy` `Product Roadmapping`
 
-Prototyping
+<br/>
 
-Visual Design
+### 🧩 Design Systems
 
-Mobile UI
+`Design Tokens` `Semantic Tokens` `Component Libraries`
 
-Customer Experience
+`Storybook` `Style Dictionary` `CSS Variables`
 
-</td>
+`Multi-Theme Architecture` `Multi-Brand Systems`
 
-<td width="25%" valign="top">
+`Component Documentation` `Responsive Foundations`
 
-### 🧩 SYSTEMS
+`Accessibility` `RTL/LTR Parity`
 
-Design Systems
+<br/>
 
-Design Tokens
+### 💻 Frontend Engineering
 
-Component Libraries
+`Angular` `React` `Next.js` `TypeScript` `JavaScript`
 
-Storybook
+`HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
 
-Style Dictionary
+`RxJS` `jQuery` `Node.js`
 
-Theming
+`Component Architecture` `State Management` `API Integration`
 
-Multi-Brand
+`Responsive Architecture` `Performance Optimization`
 
-Documentation
+<br/>
 
-Accessibility
+### 🤖 AI & Intelligent Engineering
 
-RTL/LTR
+`Local LLMs` `AI Agents` `Generative AI`
 
-</td>
+`AI-Powered UX` `AI-Assisted Development`
 
-<td width="25%" valign="top">
+`Model Orchestration` `Research Workflows`
 
-### 💻 ENGINEERING
-
-Angular
-
-React
-
-Next.js
-
-TypeScript
-
-JavaScript
-
-SCSS
-
-Frontend Architecture
-
-State Management
-
-API Integration
-
-Performance
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🤖 AI
-
-Local LLMs
-
-AI Agents
-
-Generative AI
-
-AI-Powered UX
-
-AI-Assisted Coding
-
-Model Orchestration
-
-Research Workflows
-
-Automation
-
-Local-First AI
-
-Developer AI
-
-</td>
-
-</tr>
-</table>
+`Coding Agents` `Automation` `Local-First AI`
 
 ---
 
-## 03 · DESIGN & PRODUCT ECOSYSTEM
+# Design Systems Engineering
+
+A Design System is not a collection of buttons.
+
+For me, it is the **shared architecture between design and engineering**.
+
+It needs to scale across products, brands, themes, languages, devices, and implementation technologies without losing consistency.
+
+<br/>
+
+<img src="./assets/design-system.svg" width="100%" alt="Design System architecture" />
+
+<br/>
+
+### Architecture I work with
+
+**Foundation**
+
+`Primitives` → `Semantic Tokens` → `Component Tokens`
+
+**Experience**
+
+`Typography` · `Color` · `Spacing` · `Elevation` · `Motion` · `Iconography`
+
+**Adaptation**
+
+`Responsive` · `Themes` · `Multi-Brand` · `Arabic/English` · `RTL/LTR`
+
+**Implementation**
+
+`Components` · `Patterns` · `Documentation` · `Testing`
+
+**Delivery**
+
+`Angular` · `React` · `Next.js` · `Bootstrap` · `Tailwind CSS`
+
+The goal is not to bind the Design System to one framework.
+
+The goal is to create a **shared design language and token architecture** that can serve multiple implementation technologies.
+
+---
+
+# Design Toolkit
 
 <div align="center">
 
-### From Research to Production
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator&theme=dark" alt="Design tools" />
 
-`Research` → `UX` → `Wireframes` → `Prototype` → `UI` → `Design System` → `Code` → `Product`
-
-</div>
-
-### 🎨 Primary Design Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator&perline=8" alt="Design tools" />
-</p>
+<br/><br/>
 
 ![Figma](https://img.shields.io/badge/Figma-Product_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-UX%2FUI-470137?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-UX_UI-470137?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-Visual_Design-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-Vector_Design-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-Editorial-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-Interface_Design-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
 
-### UX & Product Capabilities
-
-`User Experience (UX)` · `Interaction Design` · `User-Centered Design`
-
-`UX Research` · `Wireframing` · `Prototyping` · `Storyboarding`
-
-`Mobile UI Design` · `Responsive Web Design` · `Visual Design`
-
-`Customer Experience` · `Product Design` · `Content Strategy`
-
-`Mockups` · `Site Maps` · `Product Roadmapping` · `AR/VR Design`
-
----
-
-## 04 · DESIGN SYSTEMS ENGINEERING
-
-Design Systems are where my **design and engineering experience meet**.
-
-I work on systems designed to scale across products, teams, languages, themes, and frontend implementations.
-
-<div align="center">
-
-```text
-PRIMITIVES
-    │
-    ▼
-DESIGN TOKENS
-    │
-    ▼
-SEMANTIC TOKENS
-    │
-    ├──────────────┐
-    ▼              ▼
-THEMES         RTL / LTR
-    │              │
-    └──────┬───────┘
-           ▼
-      COMPONENTS
-           │
-           ▼
-   PRODUCT EXPERIENCES
-```
-
 </div>
 
-### Core Design System Capabilities
+### Design capabilities
 
-![Storybook](https://img.shields.io/badge/Storybook-Component_Documentation-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design_System-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Style Dictionary](https://img.shields.io/badge/Style_Dictionary-Design_Tokens-111111?style=flat-square)
+**Experience Design**
 
-`Design Tokens`
+UX/UI · Interaction Design · User-Centered Design · UX Research · Customer Experience
 
-`Style Dictionary`
+**Product**
 
-`Storybook`
+Product Design · Product Roadmapping · Information Architecture · Content Strategy
 
-`CSS Variables`
+**Exploration**
 
-`Component Libraries`
+Wireframes · User Flows · Storyboards · Mockups · Interactive Prototypes
 
-`Multi-Theme Architecture`
+**Visual**
 
-`Multi-Brand Support`
+Visual Design · Typography · Layout · Iconography · Responsive Design · Mobile UI
 
-`Responsive Foundations`
+**Systems**
 
-`Component Documentation`
-
-`Accessibility`
-
-`RTL/LTR Parity`
+Design Systems · Tokens · Components · Themes · Accessibility · RTL/LTR
 
 ---
 
-## 05 · FRONTEND ENGINEERING
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,sass,tailwind,bootstrap,nodejs&perline=11" alt="Frontend stack" />
-</p>
+# Engineering Stack
 
 <div align="center">
 
-**Angular · React · Next.js · TypeScript · JavaScript**
-
-**HTML5 · CSS3 · SCSS · Tailwind CSS · Bootstrap**
-
-**RxJS · jQuery · Node.js**
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,sass,tailwind,bootstrap,nodejs&theme=dark&perline=11" alt="Frontend engineering stack" />
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Frontend
+
+`Angular` · `React` · `Next.js`
+
+`TypeScript` · `JavaScript`
+
+`HTML5` · `CSS3` · `SCSS`
+
+`Tailwind CSS` · `Bootstrap`
+
+`RxJS` · `jQuery` · `Node.js`
 
 ### Architecture
 
-Component Architecture  
-Reusable UI Components  
-Frontend Architecture  
-State Management  
-API Integration  
-Design System Integration  
+`Reusable Components`
 
-</td>
+`Component-Driven Architecture`
 
-<td width="50%" valign="top">
+`State Management`
 
-### Quality
+`API Integration`
 
-Responsive Design  
-Performance Optimization  
-Cross-Browser Compatibility  
-WCAG Accessibility  
-RTL/LTR Parity  
-Maintainable UI Architecture  
+`Responsive Architecture`
 
-</td>
-</tr>
-</table>
+`Performance Optimization`
+
+`Cross-Browser Compatibility`
+
+`Design System Integration`
 
 ---
 
-## 06 · ENTERPRISE ENGINEERING
+# Enterprise Product Engineering
 
-My experience includes building production interfaces for environments where **security, accessibility, scalability, consistency, and multilingual support are requirements, not optional extras**.
+I have worked on digital products where UI quality is only one part of the problem.
 
-### Platforms & Architecture
+Enterprise products also require:
 
-![Sitecore](https://img.shields.io/badge/Sitecore-Enterprise_Platform-EB1F1F?style=flat-square)
-![SharePoint](https://img.shields.io/badge/SharePoint-Enterprise-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-Monorepo-143055?style=flat-square&logo=nx)
+```text
+CONSISTENCY
+     +
+SCALABILITY
+     +
+ACCESSIBILITY
+     +
+SECURITY-AWARE UX
+     +
+MULTILINGUAL SUPPORT
+     +
+MAINTAINABILITY
+```
 
-`Sitecore`
+My work includes experience across:
 
-`Sitecore JSS`
+`Banking`
 
-`SharePoint`
+`E-Government`
 
-`Nx Monorepos`
+`Enterprise Platforms`
+
+`Telecommunications`
 
 `Web Applications`
 
 `Mobile Applications`
 
-`Enterprise Component Architecture`
+<br/>
+
+### Enterprise Platforms
+
+![Sitecore](https://img.shields.io/badge/Sitecore-Enterprise_Platform-EB1F1F?style=for-the-badge)
+![SharePoint](https://img.shields.io/badge/SharePoint-Enterprise-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-Monorepo-143055?style=for-the-badge&logo=nx&logoColor=white)
+
+`Sitecore` · `Sitecore JSS` · `SharePoint` · `Nx Monorepos`
 
 ---
 
-## 07 · BILINGUAL & ACCESSIBLE UX
+# Arabic + English by Design
 
-A major part of my work involves building interfaces that work naturally in both **Arabic and English**.
+RTL support is not something I add at the end of a project.
 
-<div align="center">
+It needs to exist in the architecture from the beginning.
 
-```text
-                   PRODUCT
-                      │
-             ┌────────┴────────┐
-             │                 │
-          العربية           English
-             │                 │
-            RTL               LTR
-             │                 │
-             └────────┬────────┘
-                      │
-               DESIGN TOKENS
-                      │
-                COMPONENTS
-                      │
-              WCAG ACCESSIBILITY
-                      │
-              RESPONSIVE DESIGN
-                      │
-             ENTERPRISE PRODUCT
-```
+<img src="./assets/rtl-ltr.svg" width="100%" alt="Arabic English RTL LTR architecture" />
 
-</div>
+### My approach
 
-### Specialized In
+`Arabic ↔ English`
 
-`Arabic / English UX`
+`RTL ↔ LTR`
 
-`RTL / LTR Parity`
+`Logical Properties`
+
+`Language-Aware Typography`
+
+`Responsive Tokens`
+
+`Shared Components`
 
 `WCAG Accessibility`
 
-`Logical CSS Properties`
+`Consistent User Experience`
+
+The objective is a single component architecture that behaves naturally regardless of language direction.
+
+---
+
+# Selected Enterprise Work
+
+## 🏦 Al Rajhi Bank
+
+### Public Website
+
+**Design & Frontend Implementation**
+
+Building and evolving production banking interfaces with emphasis on:
+
+`Bilingual Arabic/English UX`
 
 `Responsive Architecture`
 
-`Banking UI`
+`Accessibility`
 
-`Enterprise UI`
+`Design System Consistency`
 
-`Component-Driven Architecture`
+`Reusable Components`
+
+`Enterprise Frontend Quality`
+
+**Technology**
+
+`Angular` · `TypeScript` · `SCSS` · `Sitecore JSS` · `RTL/LTR`
+
+<br/>
+
+### Business Banking
+
+**Enterprise Product Design & Frontend Implementation**
+
+Working on complex business banking experiences with focus on secure user journeys, reusable UI architecture, consistency across products, and maintainable frontend implementation.
+
+**Technology**
+
+`Angular` · `TypeScript` · `SCSS` · `Design Systems` · `Component Libraries` · `RTL/LTR`
 
 ---
 
-## 08 · ENGINEERING TOOLBOX
+# From Design to Production
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,npm,vscode&perline=8" alt="Engineering tools" />
-</p>
+<img src="./assets/product-workflow.svg" width="100%" alt="Product development workflow" />
+
+```text
+Understand
+   ↓
+Research
+   ↓
+Design
+   ↓
+Prototype
+   ↓
+Systemize
+   ↓
+Build
+   ↓
+Test
+   ↓
+Measure
+   ↓
+Improve
+```
+
+The important part is not any individual step.
+
+It is keeping the **intent of the experience intact** while moving from idea to production.
+
+---
+
+# AI × Product Engineering
+
+AI is becoming another layer in my product engineering workflow.
+
+I am interested in what happens when AI moves beyond the chat window and becomes part of the actual system.
+
+<img src="./assets/ai-workflow.svg" width="100%" alt="AI product engineering workflow" />
+
+### 🧠 Local LLMs
+
+Exploring private and local-first intelligence where models can run close to development environments and internal workflows.
+
+### 🤖 AI Agents
+
+Building and experimenting with agents capable of research, coding, testing, review, documentation, and multi-step engineering tasks.
+
+### 🎨 AI-Powered UX
+
+Using AI as an augmentation layer for research, ideation, analysis, prototyping, and product exploration.
+
+### 💻 AI-Assisted Engineering
+
+Integrating AI into coding, debugging, testing, documentation, architecture review, and engineering workflows.
+
+### 🔀 Model Orchestration
+
+Exploring workflows where different models handle different responsibilities instead of expecting one model to solve every problem.
+
+### 🔐 Local-First Thinking
+
+Exploring how local models can support privacy-sensitive workflows while cloud intelligence remains available when it provides meaningful additional capability.
+
+---
+
+# Engineering Toolbox
 
 <div align="center">
 
-![pnpm](https://img.shields.io/badge/pnpm-Package_Manager-F69220?style=flat-square&logo=pnpm&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-Monorepo-143055?style=flat-square&logo=nx)
-![Postman](https://img.shields.io/badge/Postman-API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-Project_Management-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-Documentation-172B4D?style=flat-square&logo=confluence&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,docker,npm,vscode&theme=dark" alt="Engineering toolbox" />
+
+<br/><br/>
+
+![pnpm](https://img.shields.io/badge/pnpm-Package_Manager-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-Monorepo-143055?style=for-the-badge&logo=nx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Workflow-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-Documentation-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
 
-`Git` · `GitHub` · `Docker` · `npm` · `pnpm` · `Nx`
+`Git` · `GitHub` · `Docker`
 
-`Visual Studio Code` · `Postman` · `Jira` · `Confluence`
+`npm` · `pnpm` · `Nx`
+
+`VS Code` · `Postman`
+
+`Jira` · `Confluence`
 
 ---
 
-## 09 · TESTING & QUALITY
+# Testing & Quality
 
 <div align="center">
 
-![Jasmine](https://img.shields.io/badge/Jasmine-Testing-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-Unit_Testing-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-Testing-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-E2E-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 </div>
 
-Testing is part of the component lifecycle, not something added after implementation.
+<br/>
 
-`Component Testing` · `E2E Testing` · `Responsive Testing`
+**Quality is part of the architecture.**
 
-`Accessibility Testing` · `Cross-Browser Testing` · `Visual Quality`
+`Component Testing`
 
----
+`Unit Testing`
 
-## 10 · SELECTED WORK
+`E2E Testing`
 
-### 🏦 Al Rajhi Bank · Public Website
+`Accessibility Testing`
 
-**Design & Frontend Implementation**
+`Responsive Testing`
 
-Designed and implemented production banking interfaces with focus on bilingual Arabic/English experiences, accessibility, responsive architecture, and Design System consistency across banking products.
+`Cross-Browser Testing`
 
-**Stack**
-
-`Angular` · `TypeScript` · `SCSS` · `Sitecore JSS` · `RTL/LTR`
+`Performance`
 
 ---
 
-### 🏦 Al Rajhi Bank · Business Banking
+# Career Evolution
 
-**Enterprise Product Design & Frontend Implementation**
-
-Designed and implemented business banking experiences with emphasis on secure user journeys, reusable components, scalable frontend architecture, and Design System consistency.
-
-**Stack**
-
-`Angular` · `TypeScript` · `SCSS` · `Component Libraries` · `RTL/LTR`
-
----
-
-## 11 · 14+ YEARS OF EVOLUTION
+<img src="./assets/career.svg" width="100%" alt="Career evolution" />
 
 <div align="center">
 
-```text
-2009                                                   TODAY
+### 2009 → TODAY
 
-  ●────────────●────────────●────────────●──────────────●
-  │            │            │            │              │
-  ▼            ▼            ▼            ▼              ▼
+**Visual & Web Design**
 
-WEB &        UX / UI       TEAM       SENIOR UX      ENTERPRISE
-GRAPHIC      DESIGN        LEAD       / UI           UX + UI
-DESIGN                                DESIGN         ENGINEERING
+↓
 
-                                                     +
-                                                     │
-                                                     ▼
-                                                DESIGN SYSTEMS
-                                                     +
-                                                     │
-                                                     ▼
-                                                     AI
-```
+**UX/UI Design**
+
+↓
+
+**Product & Interaction Design**
+
+↓
+
+**Team Leadership**
+
+↓
+
+**Frontend Engineering**
+
+↓
+
+**Enterprise Design Systems**
+
+↓
+
+**AI-Enhanced Product Engineering**
 
 </div>
 
-My career evolved from **Web & Graphic Design**, through **UX/UI and Product Design**, into **Frontend Engineering and Design Systems**.
+<br/>
 
-That evolution is why I approach interfaces from both sides:
+That journey changed how I think about digital products.
 
-<div align="center">
+I understand the pixels.
 
-### I can design the system.
+I understand the components behind them.
 
-### I can understand the component.
+I understand the system connecting those components.
 
-### I can build the interface.
-
-### And now, I can explore how AI improves the entire workflow.
-
-</div>
+And I'm exploring the intelligence that can improve the system around them.
 
 ---
 
-## 12 · AI × PRODUCT ENGINEERING
-
-I'm currently exploring how AI can become part of the actual product engineering lifecycle.
-
-Not just:
-
-```text
-USER → CHATBOT
-```
-
-but:
-
-```text
-                         IDEA
-                           │
-                           ▼
-                    PRODUCT / UX
-                           │
-                           ▼
-                    DESIGN SYSTEM
-                           │
-                           ▼
-                FRONTEND ARCHITECTURE
-                           │
-                           ▼
-                     BUILD + TEST
-                           │
-                           ▼
-                 AI ENGINEERING LAYER
-                           │
-              ┌────────────┼────────────┐
-              │            │            │
-              ▼            ▼            ▼
-           RESEARCH       REVIEW      AUTOMATION
-              │            │            │
-              └────────────┼────────────┘
-                           │
-                           ▼
-                     BETTER PRODUCT
-```
-
-### Currently Exploring
-
-🤖 **Local LLMs**  
-Private and local-first AI workflows.
-
-🧠 **AI Agents**  
-Multi-step intelligent workflows capable of working across complex engineering tasks.
-
-🎨 **AI-Powered UX**  
-Using AI to improve research, ideation, prototyping, analysis, and product workflows.
-
-💻 **AI-Assisted Engineering**  
-Coding, testing, debugging, security review, documentation, and architecture assistance.
-
-🔀 **Model Orchestration**  
-Using the right local or cloud model for the right task.
-
-⚙️ **Automation**  
-Connecting product, design, development, and AI workflows.
-
----
-
-## 13 · CONTINUOUS LEARNING
+# Continuous Learning
 
 <div align="center">
 
-### 14+ YEARS EXPERIENCE
+## 14+ YEARS OF EXPERIENCE
 
-### AND STILL LEARNING.
+### STILL LEARNING. STILL BUILDING. STILL EVOLVING.
 
 </div>
 
@@ -589,11 +534,9 @@ Connecting product, design, development, and AI workflows.
 
 **Generative AI: Elevate your Software Development Career**
 
-### Interaction Design Foundation · IxDF
+### Interaction Design Foundation
 
 `AI-Powered UX Design`
-
-`Design Systems with Storytelling`
 
 `Human-Computer Interaction`
 
@@ -605,7 +548,9 @@ Connecting product, design, development, and AI workflows.
 
 `Mobile UI Design`
 
-`Augmented & Virtual Reality Design`
+`AR/VR Design`
+
+`Design Systems with Storytelling`
 
 ### LinkedIn Learning
 
@@ -613,7 +558,7 @@ Connecting product, design, development, and AI workflows.
 
 `Style Guides & Design Systems`
 
-`UX Prototyping`
+`Prototyping`
 
 `UX Research`
 
@@ -621,84 +566,90 @@ Connecting product, design, development, and AI workflows.
 
 ---
 
-## 14 · GITHUB ACTIVITY
+# GitHub Activity
 
 <div align="center">
 
 <img
   height="175"
-  src="https://github-readme-stats.shion.dev/api?username=mibrahimdesign&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-  alt="Mohamed Ibrahim GitHub statistics"
+  src="https://github-readme-stats.shion.dev/api?username=mibrahimdesign&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
+  alt="GitHub statistics"
 />
 
 <img
   height="175"
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=mibrahimdesign&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  alt="Mohamed Ibrahim most used GitHub languages"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=mibrahimdesign&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+  alt="GitHub languages"
 />
 
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com/?user=mibrahimdesign&theme=github-dark-blue&hide_border=true"
-  alt="Mohamed Ibrahim GitHub contribution streak"
+  src="https://streak-stats.demolab.com/?user=mibrahimdesign&theme=transparent&hide_border=true"
+  alt="GitHub contribution streak"
 />
 
 </div>
 
-> GitHub language statistics represent repository composition and should not be interpreted as a measurement of overall professional experience.
+> GitHub repository language statistics represent repository composition, not the breadth of my professional engineering experience.
 
 ---
 
-## 15 · MY PHILOSOPHY
+# The Direction
+
+<img src="./assets/future.svg" width="100%" alt="Design engineering AI future" />
 
 <div align="center">
 
-```text
-                  ┌───────────────┐
-                  │    DESIGN     │
-                  │ Human Needs   │
-                  └───────┬───────┘
-                          │
-                          ▼
-                 ┌────────────────┐
-                 │ DESIGN SYSTEM  │
-                 │ Scale & Order  │
-                 └───────┬────────┘
-                         │
-                         ▼
-                  ┌───────────────┐
-                  │  ENGINEERING  │
-                  │ Build & Ship  │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │      AI       │
-                  │ Intelligence  │
-                  └───────┬───────┘
-                          │
-                          ▼
-                 BETTER PRODUCTS
-```
+I believe the next generation of digital products will not be created by
 
-### Design the experience.
+**Design alone.**
 
-### Build the system.
+or
 
-### Engineer the product.
+**Engineering alone.**
 
-### Add intelligence where it creates value.
+or
+
+**AI alone.**
+
+<br/>
+
+It will come from understanding how they work together.
+
+<br/>
+
+## HUMAN THINKING
+
+↓
+
+## DESIGN
+
+↓
+
+## SYSTEMS
+
+↓
+
+## ENGINEERING
+
+↓
+
+## INTELLIGENCE
+
+↓
+
+# BETTER PRODUCTS
 
 </div>
 
 ---
 
-## 16 · LET'S CONNECT
+# Let's Connect
 
 <div align="center">
 
-I'm interested in conversations and collaboration around
+Interested in conversations around
 
 **Product Design · Design Systems · Frontend Architecture**
 
@@ -708,11 +659,11 @@ I'm interested in conversations and collaboration around
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedibrahimdesigner/)
 
-[![Behance](https://img.shields.io/badge/Behance-View_My_Design_Work-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mibrahim-designer)
+[![Behance](https://img.shields.io/badge/Behance-Design_Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mibrahim-designer)
 
 <br/><br/>
 
-### DESIGN · BUILD · SIMPLIFY · EVOLVE
+### DESIGN · BUILD · SYSTEMIZE · EVOLVE
 
 </div>
 
@@ -720,14 +671,16 @@ I'm interested in conversations and collaboration around
 
 <div align="center">
 
-### © 2026 Mohamed Ibrahim Abdel Razik
+<sub>
 
-**All Rights Reserved**
+© 2026 Mohamed Ibrahim Abdel Razik. All Rights Reserved.
 
-The original written content, visual identity, custom diagrams, presentation structure, and custom visual assets contained in this profile are protected works.
+The original written content, visual identity, custom illustrations, diagrams, presentation structure, and visual assets contained in this profile are protected works.
 
 No permission is granted to copy, reproduce, republish, redistribute, modify, or create derivative versions of the original profile content or custom visual assets without prior written permission from the copyright owner.
 
-**Viewing this public repository does not grant a license to reuse its original content.**
+**Public access to this repository does not constitute a license to reuse its original content.**
+
+</sub>
 
 </div>
