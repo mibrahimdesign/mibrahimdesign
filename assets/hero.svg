@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Mohamed Ibrahim profile hero">
+<rect width="1200" height="560" rx="24" fill="#0d1117"/>
+
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}
+  .muted{fill:#8b949e}.white{fill:#f0f6fc}.blue{fill:#58a6ff}.purple{fill:#bc8cff}.green{fill:#3fb950}.orange{fill:#d29922}
+  .card{fill:#0d1117;stroke:#30363d;stroke-width:1.5}
+  .line{fill:none;stroke:#30363d;stroke-width:2}
+  .flow{fill:none;stroke:#58a6ff;stroke-width:2;stroke-dasharray:8 10;animation:dash 7s linear infinite}
+  .pulse{animation:pulse 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  .float{animation:float 4s ease-in-out infinite}
+  .fade{animation:fade 5s ease-in-out infinite}
+  @keyframes dash{to{stroke-dashoffset:-180}}
+  @keyframes pulse{0%,100%{opacity:.55;transform:scale(.94)}50%{opacity:1;transform:scale(1.05)}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  @keyframes fade{0%,100%{opacity:.45}50%{opacity:1}}
+</style>
+
+
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#58a6ff"/><stop offset=".5" stop-color="#bc8cff"/><stop offset="1" stop-color="#3fb950"/></linearGradient></defs>
+<rect x="35" y="35" width="1130" height="490" rx="22" fill="#010409" stroke="url(#g)" stroke-width="2"/>
+<text x="600" y="120" class="white" font-size="48" font-weight="800" text-anchor="middle">MOHAMED IBRAHIM</text>
+<text x="600" y="163" class="muted" font-size="22" font-weight="500" text-anchor="middle">Senior UX/UI Engineer  •  Frontend Developer</text>
+<path d="M235 260 H965" class="flow"/>
+<circle cx="300" cy="260" r="9" fill="#58a6ff" class="pulse"/><circle cx="600" cy="260" r="9" fill="#bc8cff" class="pulse"/><circle cx="900" cy="260" r="9" fill="#3fb950" class="pulse"/>
+<text x="300" y="225" class="blue" font-size="25" font-weight="800" text-anchor="middle">DESIGN</text><text x="600" y="225" class="purple" font-size="25" font-weight="800" text-anchor="middle">SYSTEM</text><text x="900" y="225" class="green" font-size="25" font-weight="800" text-anchor="middle">CODE + AI</text>
+<text x="600" y="350" class="white" font-size="30" font-weight="700" text-anchor="middle">DESIGN × ENGINEERING × INTELLIGENCE</text>
+<text x="600" y="397" class="muted" font-size="18" font-weight="400" text-anchor="middle">14+ years turning complex enterprise requirements into scalable digital experiences.</text>
+<text x="600" y="455" class="blue" font-size="18" font-weight="600" text-anchor="middle">Banking  •  Design Systems  •  RTL/LTR  •  Accessibility  •  Local AI</text>
+
+</svg>
