@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Design code and AI">
+<rect width="1200" height="520" rx="24" fill="#0d1117"/>
+
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}
+  .muted{fill:#8b949e}.white{fill:#f0f6fc}.blue{fill:#58a6ff}.purple{fill:#bc8cff}.green{fill:#3fb950}.orange{fill:#d29922}
+  .card{fill:#0d1117;stroke:#30363d;stroke-width:1.5}
+  .line{fill:none;stroke:#30363d;stroke-width:2}
+  .flow{fill:none;stroke:#58a6ff;stroke-width:2;stroke-dasharray:8 10;animation:dash 7s linear infinite}
+  .pulse{animation:pulse 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  .float{animation:float 4s ease-in-out infinite}
+  .fade{animation:fade 5s ease-in-out infinite}
+  @keyframes dash{to{stroke-dashoffset:-180}}
+  @keyframes pulse{0%,100%{opacity:.55;transform:scale(.94)}50%{opacity:1;transform:scale(1.05)}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  @keyframes fade{0%,100%{opacity:.45}50%{opacity:1}}
+</style>
+
+
+<text x="600" y="65" class="white" font-size="28" font-weight="800" text-anchor="middle">FROM EXPERIENCE TO INTELLIGENCE</text>
+<rect x="70" y="125" width="290" height="330" rx="24" class="card"/><rect x="455" y="125" width="290" height="330" rx="24" class="card"/><rect x="840" y="125" width="290" height="330" rx="24" class="card"/>
+<text x="215" y="175" class="blue" font-size="26" font-weight="800" text-anchor="middle">DESIGN</text><text x="600" y="175" class="purple" font-size="26" font-weight="800" text-anchor="middle">SYSTEM</text><text x="985" y="175" class="green" font-size="26" font-weight="800" text-anchor="middle">ENGINEERING + AI</text>
+<text x="105" y="230" class="white" font-size="20" font-weight="500" text-anchor="start">UX / UI</text><text x="105" y="270" class="white" font-size="20" font-weight="500" text-anchor="start">Research &amp; Prototyping</text><text x="105" y="310" class="white" font-size="20" font-weight="500" text-anchor="start">Product Design</text><text x="105" y="350" class="white" font-size="20" font-weight="500" text-anchor="start">Figma &amp; Adobe</text><text x="105" y="390" class="white" font-size="20" font-weight="500" text-anchor="start">Human-Centered UX</text>
+<text x="490" y="230" class="white" font-size="20" font-weight="500" text-anchor="start">Design Tokens</text><text x="490" y="270" class="white" font-size="20" font-weight="500" text-anchor="start">Component Libraries</text><text x="490" y="310" class="white" font-size="20" font-weight="500" text-anchor="start">Themes &amp; Brands</text><text x="490" y="350" class="white" font-size="20" font-weight="500" text-anchor="start">RTL / LTR</text><text x="490" y="390" class="white" font-size="20" font-weight="500" text-anchor="start">Accessibility</text>
+<text x="875" y="230" class="white" font-size="20" font-weight="500" text-anchor="start">Angular / React / Next.js</text><text x="875" y="270" class="white" font-size="20" font-weight="500" text-anchor="start">TypeScript</text><text x="875" y="310" class="white" font-size="20" font-weight="500" text-anchor="start">Frontend Architecture</text><text x="875" y="350" class="white" font-size="20" font-weight="500" text-anchor="start">Local LLMs &amp; Agents</text><text x="875" y="390" class="white" font-size="20" font-weight="500" text-anchor="start">Automation</text>
+<path d="M360 290 H455 M745 290 H840" class="flow"/>
+
+</svg>
