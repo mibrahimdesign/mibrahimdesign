@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-label="Design System architecture">
+<rect width="1200" height="540" rx="24" fill="#0d1117"/>
+
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}
+  .muted{fill:#8b949e}.white{fill:#f0f6fc}.blue{fill:#58a6ff}.purple{fill:#bc8cff}.green{fill:#3fb950}.orange{fill:#d29922}
+  .card{fill:#0d1117;stroke:#30363d;stroke-width:1.5}
+  .line{fill:none;stroke:#30363d;stroke-width:2}
+  .flow{fill:none;stroke:#58a6ff;stroke-width:2;stroke-dasharray:8 10;animation:dash 7s linear infinite}
+  .pulse{animation:pulse 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  .float{animation:float 4s ease-in-out infinite}
+  .fade{animation:fade 5s ease-in-out infinite}
+  @keyframes dash{to{stroke-dashoffset:-180}}
+  @keyframes pulse{0%,100%{opacity:.55;transform:scale(.94)}50%{opacity:1;transform:scale(1.05)}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  @keyframes fade{0%,100%{opacity:.45}50%{opacity:1}}
+</style>
+
+<text x="600" y="60" class="white" font-size="28" font-weight="800" text-anchor="middle">DESIGN SYSTEM ARCHITECTURE</text>
+<text x="600" y="92" class="muted" font-size="17" font-weight="400" text-anchor="middle">Framework-aware delivery, framework-independent foundations</text><rect x="170" y="107" width="860" height="72" rx="18" class="card"/><text x="210" y="143" class="blue" font-size="20" font-weight="800" text-anchor="start">PRIMITIVES</text><text x="520" y="143" class="muted" font-size="17" font-weight="500" text-anchor="start">Color • Type • Spacing • Radius • Motion</text><path d="M600 179 V217" class="flow"/><rect x="170" y="187" width="860" height="72" rx="18" class="card"/><text x="210" y="223" class="purple" font-size="20" font-weight="800" text-anchor="start">SEMANTIC TOKENS</text><text x="520" y="223" class="muted" font-size="17" font-weight="500" text-anchor="start">Surface • Text • Border • Icon • State</text><path d="M600 259 V297" class="flow"/><rect x="170" y="267" width="860" height="72" rx="18" class="card"/><text x="210" y="303" class="orange" font-size="20" font-weight="800" text-anchor="start">ADAPTATION</text><text x="520" y="303" class="muted" font-size="17" font-weight="500" text-anchor="start">Themes • Multi-Brand • Responsive • RTL/LTR</text><path d="M600 339 V377" class="flow"/><rect x="170" y="347" width="860" height="72" rx="18" class="card"/><text x="210" y="383" class="green" font-size="20" font-weight="800" text-anchor="start">COMPONENT SYSTEM</text><text x="520" y="383" class="muted" font-size="17" font-weight="500" text-anchor="start">Components • Patterns • Documentation • Accessibility</text><path d="M600 419 V457" class="flow"/><rect x="170" y="427" width="860" height="72" rx="18" class="card"/><text x="210" y="463" class="blue" font-size="20" font-weight="800" text-anchor="start">DELIVERY</text><text x="520" y="463" class="muted" font-size="17" font-weight="500" text-anchor="start">Angular • React • Next.js • Bootstrap • Tailwind CSS</text>
+</svg>

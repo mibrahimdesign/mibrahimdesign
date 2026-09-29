@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="FROM IDEA TO PRODUCTION">
+<rect width="1200" height="400" rx="24" fill="#0d1117"/>
+
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}
+  .muted{fill:#8b949e}.white{fill:#f0f6fc}.blue{fill:#58a6ff}.purple{fill:#bc8cff}.green{fill:#3fb950}.orange{fill:#d29922}
+  .card{fill:#0d1117;stroke:#30363d;stroke-width:1.5}
+  .line{fill:none;stroke:#30363d;stroke-width:2}
+  .flow{fill:none;stroke:#58a6ff;stroke-width:2;stroke-dasharray:8 10;animation:dash 7s linear infinite}
+  .pulse{animation:pulse 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  .float{animation:float 4s ease-in-out infinite}
+  .fade{animation:fade 5s ease-in-out infinite}
+  @keyframes dash{to{stroke-dashoffset:-180}}
+  @keyframes pulse{0%,100%{opacity:.55;transform:scale(.94)}50%{opacity:1;transform:scale(1.05)}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  @keyframes fade{0%,100%{opacity:.45}50%{opacity:1}}
+</style>
+
+<text x="600" y="60" class="white" font-size="28" font-weight="800" text-anchor="middle">FROM IDEA TO PRODUCTION</text><path d="M85 260 H1115" class="flow"/><circle cx="85.0" cy="260" r="27" fill="#161b22" stroke="#30363d" stroke-width="2" class="pulse"/><circle cx="85.0" cy="260" r="7" fill="#58a6ff"/><text x="85.0" y="330" class="blue" font-size="16" font-weight="700" text-anchor="middle">UNDERSTAND</text><circle cx="256.66666666666663" cy="260" r="27" fill="#161b22" stroke="#30363d" stroke-width="2" class="pulse"/><circle cx="256.66666666666663" cy="260" r="7" fill="#58a6ff"/><text x="256.66666666666663" y="330" class="purple" font-size="16" font-weight="700" text-anchor="middle">RESEARCH</text><circle cx="428.3333333333333" cy="260" r="27" fill="#161b22" stroke="#30363d" stroke-width="2" class="pulse"/><circle cx="428.3333333333333" cy="260" r="7" fill="#58a6ff"/><text x="428.3333333333333" y="330" class="green" font-size="16" font-weight="700" text-anchor="middle">DESIGN</text><circle cx="600.0" cy="260" r="27" fill="#161b22" stroke="#30363d" stroke-width="2" class="pulse"/><circle cx="600.0" cy="260" r="7" fill="#58a6ff"/><text x="600.0" y="330" class="orange" font-size="16" font-weight="700" text-anchor="middle">SYSTEMIZE</text><circle cx="771.6666666666666" cy="260" r="27" fill="#161b22" stroke="#30363d" stroke-width="2" class="pulse"/><circle cx="771.6666666666666" cy="260" r="7" fill="#58a6ff"/><text x="771.6666666666666" y="330" class="blue" font-size="16" font-weight="700" text-anchor="middle">BUILD</text><circle cx="943.3333333333333" cy="260" r="27" fill="#161b22" stroke="#30363d" stroke-width="2" class="pulse"/><circle cx="943.3333333333333" cy="260" r="7" fill="#58a6ff"/><text x="943.3333333333333" y="330" class="purple" font-size="16" font-weight="700" text-anchor="middle">TEST</text><circle cx="1115.0" cy="260" r="27" fill="#161b22" stroke="#30363d" stroke-width="2" class="pulse"/><circle cx="1115.0" cy="260" r="7" fill="#58a6ff"/><text x="1115.0" y="330" class="green" font-size="16" font-weight="700" text-anchor="middle">IMPROVE</text>
+</svg>
